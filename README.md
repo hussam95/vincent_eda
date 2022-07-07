@@ -6,4 +6,4 @@
 - The work was in continuaiton to build Educational Dashboard for RT Fisher
 
 
-**Click [here]() to view the notebook.**
+**Click [here](https://nbviewer.org/github/hussam95/vincent_eda/blob/13a807d8e61b54f17f314b6d3f09bf11f3e06c0d/new_old_similarity_check.ipynb) to view the notebook.**
